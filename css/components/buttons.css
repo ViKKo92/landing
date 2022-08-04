@@ -1,0 +1,27 @@
+.button-login {
+  background-color: #f4dcbd;
+  color: #031A6B;
+  font-weight: bolder;
+  word-spacing: 1px;
+  border: solid 1px white;
+  border-radius: 10px;
+  padding: 15px 15px 15px 15px;
+}
+
+.button-login:hover {
+  background-color: #05C3F7;
+}
+
+.button-registration {
+  background-color: #031A6B;
+  color: white;
+  font-weight: bolder;
+  word-spacing: 1px;
+  border: solid 1px white;
+  border-radius: 10px;
+  padding: 15px 15px 15px 15px;
+}
+
+.button-registration:hover {
+  background-color: #05C3F7;
+}

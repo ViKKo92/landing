@@ -1,0 +1,55 @@
+.container {
+  width: 100%;
+  margin:0 auto;
+  background-color: white;
+  align-items: center;
+}
+
+.container h1 {
+  text-align: center;
+  font-size: 24px;
+  padding-top: 10px;
+}
+
+.explanation-card-wrapper {
+  margin: 0 auto;
+  padding: 15px 0px 15px 0px;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;  
+  border-radius: 20px;
+}
+
+.explanation-card {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #f4dcbd;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.icon-wrapper {
+  font-size: xx-large;
+  text-align: center;
+  align-items: center;
+}
+
+.explanation-card-text {
+
+}
+
+.explanation-card-text h2 {
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 18px;
+  text-align: center;
+}
+
+.explanation-card-text p {
+  font-size: 14px;
+  text-align: center;
+}

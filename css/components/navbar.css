@@ -1,0 +1,32 @@
+.navigation {
+  background-color: #0e0586;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0px 10px 0px;
+}
+
+.navigation button {
+  margin-right: 20px;
+}
+
+.navigation img {
+  margin-left: 20px;
+}
+
+.link_wrapper {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation a {
+  color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  word-spacing: 1px;
+}
+
+.navigation a:hover{
+  color: #05C3F7;
+}

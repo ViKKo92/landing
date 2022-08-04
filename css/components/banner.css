@@ -1,0 +1,16 @@
+.banner {
+  height: 300px;
+  align-items: center;
+  background-size: cover;
+  background-repeat: none;
+  padding: 10px 0px 10px 0px;
+}
+
+.banner-infos {
+  width: 30%;
+  margin-left: 900px;
+}
+
+.banner button {
+  margin-left: 900px;
+}
